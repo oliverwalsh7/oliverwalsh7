@@ -1,4 +1,3 @@
-# V. Oliver Walsh
 ### About
 👋 I'm driven to apply my knowledge of ML to highly innovative and technical domains.  
 My main ambition is to learn & grow every day.
@@ -13,4 +12,4 @@ My main ambition is to learn & grow every day.
 
 ### Metrics
 (subject to some inaccuracies)  
-<img src="/github-metrics.svg" alt="Metrics" width="75%">
+<p align="center"> <img src="/github-metrics.svg" alt="Metrics" width="65%"> </p>
