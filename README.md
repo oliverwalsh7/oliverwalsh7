@@ -7,4 +7,4 @@
   - dual B.S. Computer Science & Business
   - [Scalable Systems and Software Group](https://sss.cse.lehigh.edu/)
 ---
-<img src="/github-metrics.svg" alt="Metrics" width="50%">
+<img src="/github-metrics.svg" alt="Metrics" width="75%">
