@@ -1,5 +1,5 @@
 # Vasilios Oliver Walsh
-## Software Engineer, Machine Learning
+### Software Engineer, Machine Learning
 Background
 - 👨🏼‍💻 Former Machine Learning Platform Engineer @coinbase
 - 👨🏼‍💻 Former intern at @sonyresearch, @dolomite, ecomedes
