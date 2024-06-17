@@ -7,3 +7,5 @@ Background
   - M.S. Computer Science & Engineering, focus in Machine Learning
   - dual B.S. Computer Science & Business
   - [Scalable Systems and Software Group](https://sss.cse.lehigh.edu/
+
+![Metrics](/github-metrics.svg)
