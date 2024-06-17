@@ -7,8 +7,8 @@ My main ambition is to learn & grow every day.
 - 👨🏼‍💻 Former intern at [@sonyresearch](https://github.com/SonyResearch), [@dolomite](https://github.com/dolomite-exchange), [@ecomedes](https://www.ecomedes.com/)
 - 🎓 Lehigh University
   - M.S. Computer Science & Engineering, focus in Machine Learning
-  - dual B.S. Computer Science & Business
-  - [Scalable Systems and Software Group](https://sss.cse.lehigh.edu/)
+  - dual B.S. Computer Science & Business [@lehigh-csb](https://github.com/Lehigh-CSB)
+  - [Scalable Systems and Software Group](https://sss.cse.lehigh.edu/) [@sss-lehigh](https://github.com/sss-lehigh)
 
 ### Metrics
 (subject to some inaccuracies)  
