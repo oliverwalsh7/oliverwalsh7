@@ -1,15 +1,17 @@
-### About
-👋 I'm driven to apply my knowledge of ML to highly innovative and technical domains.  
+## Hi there 👋
+I'm Oliver, current ML Engineer & graduate of Lehigh U.
+
+I'm driven to apply my knowledge of machine learning and distributed systems to highly innovative and technical domains.  
 My main ambition is to learn & grow every day.
 
 ### Background
-- 👨🏼‍💻 Former Machine Learning Platform Engineer [@coinbase](https://github.com/coinbase)
-- 👨🏼‍💻 Former intern at [@sonyresearch](https://github.com/SonyResearch), [@dolomite](https://github.com/dolomite-exchange), [@ecomedes](https://www.ecomedes.com/)
+- 👷‍♂️ Machine Learning Platform Engineer [@coinbase](https://github.com/coinbase) (2022-2024)
+- 👨‍💻 Interned at [@coinbase](https://github.com/coinbase), [@sonyresearch](https://github.com/SonyResearch), [@dolomite](https://github.com/dolomite-exchange), [@ecomedes](https://www.ecomedes.com/)
 - 🎓 Lehigh University
   - M.S. Computer Science & Engineering, focus in Machine Learning
   - dual B.S. Computer Science & Business [@lehigh-csb](https://github.com/Lehigh-CSB)
   - [Scalable Systems and Software Group](https://sss.cse.lehigh.edu/) [@sss-lehigh](https://github.com/sss-lehigh)
-
-### Metrics
-(subject to some inaccuracies)  
-<p align="center"> <img src="/github-metrics.svg" alt="Metrics" width="65%"> </p>
+ 
+### Contact
+- oliverwalsh7@gmail.com
+- [in/vasilios-walsh](https://www.linkedin.com/in/vasilios-walsh/)
