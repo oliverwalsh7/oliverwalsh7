@@ -12,7 +12,7 @@ My main ambition is to learn & grow every day.
   - dual B.S. Computer Science & Business [@lehigh-csb](https://github.com/Lehigh-CSB)
   - [Scalable Systems and Software Group](https://sss.cse.lehigh.edu/) [@sss-lehigh](https://github.com/sss-lehigh)
   - [Lehigh Blockchain](https://wordpress.lehigh.edu/blockchain/alumni/) 
-   - researched federated voting systems on Ethereum, blockchain protocols
+    - researched federated voting systems on Ethereum, blockchain protocols
  
 ### Contact
 - oliverwalsh7@gmail.com
