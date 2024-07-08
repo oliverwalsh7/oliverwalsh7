@@ -5,7 +5,7 @@ I'm driven to apply my knowledge of machine learning and distributed systems to 
 My main ambition is to learn & grow every day.
 
 ### Background
-- 👷‍♂️ Machine Learning Engineer [@valence](https://docs.vannalabs.ai/) (2024-present)
+- 👷‍♂️ Machine Learning Engineer [@valence](https://github.com/ValenceResearch) (2024-present)
 - 👷‍♂️ Machine Learning Platform Engineer [@coinbase](https://github.com/coinbase) (2022-2024)
 - 👨‍💻 Interned at [@coinbase](https://github.com/coinbase), [@sonyresearch](https://github.com/SonyResearch), [@dolomite](https://github.com/dolomite-exchange), [@ecomedes](https://www.ecomedes.com/)
 - 🎓 Lehigh University
