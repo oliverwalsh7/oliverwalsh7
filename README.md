@@ -4,6 +4,8 @@ I'm Oliver, current ML Engineer at Valence & graduate of Lehigh U.
 I'm driven to apply my knowledge of machine learning and distributed systems to highly innovative and technical domains.  
 My main ambition is to learn & grow every day.
 
+Check out my website at [owal.me](https://www.owal.me/#owal)
+
 ### Background
 - 👷‍♂️ Machine Learning Engineer [@valence](https://github.com/ValenceResearch) (2024-present)
 - 👷‍♂️ Machine Learning Platform Engineer [@coinbase](https://github.com/coinbase) (2022-2024)
